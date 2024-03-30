@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(171, 235, 171);
+}
+
+.mc-border-bot{
+    border-bottom: 1px solid black;
+}
+
+.mc-backcolor{
+    background-color:#261711;
+}
+.mc-fontsizehead{
+     font-size: calc(1.375rem + 6.5vw);
+}

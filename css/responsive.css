@@ -1,0 +1,30 @@
+@media screen and (max-width:1200px) {
+    .mc-spacer2{
+        display: none;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .mc-cardtext{
+        font-size: 12px;
+    }
+    .mc-spacer{
+        display: none;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .mc-revflexdir{
+        flex-direction: column-reverse;
+    }
+    .mc-cardtext{
+        font-size: 16px;
+    }
+
+}
+
+@media screen and (max-width:350px) {
+    .mc-spacer{
+        display: inline;
+    }
+}
